@@ -20,3 +20,7 @@ Learn coding amnd contribute
 Contribute in the C++
 Contribute for the finance community.
 
+##Copyright
+2014 Git.Training.
+
+
