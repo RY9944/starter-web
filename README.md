@@ -22,5 +22,5 @@ Contribute for the finance community.
 
 ##Copyright
 2014 Git.Training.
-
+copyright for the RY
 
