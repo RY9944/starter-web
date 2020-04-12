@@ -15,3 +15,8 @@ Deploy the good codes
 
 ##How to Contribute
 
+Learn coding amnd contribute
+
+Contribute in the C++
+Contribute for the finance community.
+
