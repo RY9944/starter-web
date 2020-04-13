@@ -24,6 +24,6 @@ Contribute for the finance community.
 Please fork this repository and then pull requests for review.
 
 ##Copyright
-2014 Git.Training.
+2014 Git.Training. All right reserved
 copyright for the RY
 
